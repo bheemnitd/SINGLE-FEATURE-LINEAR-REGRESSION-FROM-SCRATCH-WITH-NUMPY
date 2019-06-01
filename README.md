@@ -8,8 +8,12 @@ lem. The first column is the population of a city and the second column is
 the profit of a food truck in that city. A negative value for profit indicates a
 loss.</p>
 
+
+#### Linear Regression.<br>
 ![1](https://github.com/bheemnitd/SINGLE-FEATURE-LINEAR-REGRESSION-FROM-SCRATCH-WITH-NUMPY/blob/master/images/download.png)<br>
 
+#### graph of loss minimizaion.<br>
 ![2](https://github.com/bheemnitd/SINGLE-FEATURE-LINEAR-REGRESSION-FROM-SCRATCH-WITH-NUMPY/blob/master/images/download2.png)<br>
 
+#### Contour and Gradient Descent.<br>
 ![3](https://github.com/bheemnitd/SINGLE-FEATURE-LINEAR-REGRESSION-FROM-SCRATCH-WITH-NUMPY/blob/master/images/download3.png)
