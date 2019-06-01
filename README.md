@@ -15,5 +15,5 @@ loss.</p>
 #### graph of loss minimizaion.<br>
 ![2](https://github.com/bheemnitd/SINGLE-FEATURE-LINEAR-REGRESSION-FROM-SCRATCH-WITH-NUMPY/blob/master/images/download2.png)<br>
 
-#### Contour and Gradient Descent.<br>
+#### Contour(left) and Gradient Descent(right).<br>
 ![3](https://github.com/bheemnitd/SINGLE-FEATURE-LINEAR-REGRESSION-FROM-SCRATCH-WITH-NUMPY/blob/master/images/download3.png)
