@@ -7,6 +7,7 @@ to next.The file ex1data1.txt contains the dataset for our linear regression pro
 lem. The first column is the population of a city and the second column is
 the profit of a food truck in that city. A negative value for profit indicates a
 loss.</p>
+
 ![1](https://github.com/bheemnitd/DATA-EXTRACTION-FROM-ECG-SIGNAL-AND-XML/blob/master/Selection_004.png)<br>
 ![2](https://github.com/bheemnitd/SINGLE-FEATURE-LINEAR-REGRESSION-FROM-SCRATCH-WITH-NUMPY/blob/master/images/download1.png)<br>
 ![3](https://github.com/bheemnitd/SINGLE-FEATURE-LINEAR-REGRESSION-FROM-SCRATCH-WITH-NUMPY/blob/master/images/download2.png)
