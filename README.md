@@ -6,7 +6,20 @@
 to next.The file <a href = 'https://github.com/bheemnitd/SINGLE-FEATURE-LINEAR-REGRESSION-FROM-SCRATCH-WITH-NUMPY/blob/master/ex1data1.txt'>ex1data1.txt</a> contains the dataset for our linear regression problem. The first column is the population of a city and the second column is
 the profit of a food truck in that city. A negative value for profit indicates a
 loss.</p>
-
+<table>
+  <th>
+    <tr>
+      <td>Population</td>
+      <td>Profit</td>
+    </tr>
+  </th>
+  <tr><td>6.1101</td><td>17.592</td></tr>
+  <tr><td>5.5277</td><td>9.1302</td></tr>
+  <tr><td>8.5186</td><td>13.662</td></tr>
+  <tr><td>7.0032</td><td>11.854</td></tr>
+  <tr><td>5.8598</td><td>6.8233</td></tr>
+ </table>
+  
 
 #### Linear Regression.<br>
 ![1](https://github.com/bheemnitd/SINGLE-FEATURE-LINEAR-REGRESSION-FROM-SCRATCH-WITH-NUMPY/blob/master/images/download.png)<br>
