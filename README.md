@@ -2,10 +2,9 @@
 
 <p>Here we will implement linear regression with one variable to predict profits for a food truck. Suppose you are the CEO of a restaurant franchise and are considering different cities for opening a new outlet. The chain already has trucks in various cities and you have data for profits and populations from the cities.</p>
 
-<p>You would like to use <a href = 'https://github.com/bheemnitd/SINGLE-FEATURE-LINEAR-REGRESSION-FROM-SCRATCH-WITH-NUMPY/blob/master/ex1data1.txt'>this</a> data to help you select which city to expand
-to next.The file <a href = 'https://github.com/bheemnitd/SINGLE-FEATURE-LINEAR-REGRESSION-FROM-SCRATCH-WITH-NUMPY/blob/master/ex1data1.txt'>ex1data1.txt</a> contains the dataset for our linear regression problem. The first column is the population of a city and the second column is
-the profit of a food truck in that city. A negative value for profit indicates a
+<p>You would like to use <a href = 'https://github.com/bheemnitd/SINGLE-FEATURE-LINEAR-REGRESSION-FROM-SCRATCH-WITH-NUMPY/blob/master/ex1data1.txt'>this</a> data to help you select which city to expand to next.The file <a href = 'https://github.com/bheemnitd/Single-Feature-Linear-Regression-From-Scratch/blob/master/ex1data1.txt'>ex1data1.txt</a> contains the dataset for our linear regression problem. The first column is the population of a city and the second column is the profit of a food truck in that city.There are 97 sample are available to train the model. A negative value for profit indicates a
 loss.</p>
+<p>Here some demo of training sample.</p>
 <table>
   <tr><td><h5>Population of city in 10,000s</h5></td><td><h5>Profit in $10,000s</h5></td></tr>
   <tr><td>6.1101</td><td>17.592</td></tr>
