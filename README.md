@@ -7,12 +7,13 @@ to next.The file <a href = 'https://github.com/bheemnitd/SINGLE-FEATURE-LINEAR-R
 the profit of a food truck in that city. A negative value for profit indicates a
 loss.</p>
 <table>
-  <th>
-    <tr>
+  
+    <tr><th>
       <td>Population</td>
       <td>Profit</td>
+      </th>
     </tr>
-  </th>
+  
   <tr><td>6.1101</td><td>17.592</td></tr>
   <tr><td>5.5277</td><td>9.1302</td></tr>
   <tr><td>8.5186</td><td>13.662</td></tr>
