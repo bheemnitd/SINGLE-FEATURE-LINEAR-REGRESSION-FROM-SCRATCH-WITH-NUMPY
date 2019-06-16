@@ -19,7 +19,7 @@ Here some sample of training dataset.
 </table><br>
 
 ## Setup
-<p> The libraries which i used to for this project.</p>
+<p> Install these libraries to run the code.</p>
 <li> numpy</li>
 <li> matplotlib</li>
 
