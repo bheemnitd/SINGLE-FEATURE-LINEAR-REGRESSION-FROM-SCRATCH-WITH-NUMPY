@@ -1,4 +1,4 @@
-### Singal Variable Linear Regression.
+## Singal Variable Linear Regression.
 
 <p>Here we will implement linear regression with one variable to predict profits for a food truck. Suppose you are the CEO of a restaurant franchise and are considering different cities for opening a new outlet. The chain already has trucks in various cities and you have data for profits and populations from the cities.</p>
 
@@ -6,11 +6,9 @@
 loss.</p>
 
 <p>Here we used 97 training example to train the model, and used Batch Gradient Descent as Otimizer over 5000 iteration to get optimized theta(paramer/weight).</p>
-<p> The libraries which i used to for this project.</p>
-<li> numpy</li>
-<li> matplotlib</li>
-  
-<h3>Here some sample of training dataset.</h3>
+
+## Dataset
+Here some sample of training dataset.
 <table>
   <tr><td><h5>Population of city in 10,000s</h5></td><td><h5>Profit in $10,000s</h5></td></tr>
   <tr><td>6.1101</td><td>17.592</td></tr>
@@ -18,8 +16,12 @@ loss.</p>
   <tr><td>8.5186</td><td>13.662</td></tr>
   <tr><td>7.0032</td><td>11.854</td></tr>
   <tr><td>5.8598</td><td>6.8233</td></tr>
-</table>
-  
+</table><br>
+
+## Setup
+<p> The libraries which i used to for this project.</p>
+<li> numpy</li>
+<li> matplotlib</li>
 
 #### Linear Regression.<br>
 ![1](https://github.com/bheemnitd/SINGLE-FEATURE-LINEAR-REGRESSION-FROM-SCRATCH-WITH-NUMPY/blob/master/images/download.png)<br>
