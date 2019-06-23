@@ -24,10 +24,10 @@ Here some sample of training dataset.
 <li> matplotlib</li>
 
 #### Linear Regression.<br>
-![1](https://github.com/bheemnitd/SINGLE-FEATURE-LINEAR-REGRESSION-FROM-SCRATCH-WITH-NUMPY/blob/master/images/download.png)<br>
+![1](https://github.com/bheemnitd/Single-Feature-Linear-Regression-From-Scratch/blob/master/images/regression.png)<br>
 
 #### graph of loss minimizaion.<br>
-![2](https://github.com/bheemnitd/SINGLE-FEATURE-LINEAR-REGRESSION-FROM-SCRATCH-WITH-NUMPY/blob/master/images/download2.png)<br>
+![2](https://github.com/bheemnitd/Single-Feature-Linear-Regression-From-Scratch/blob/master/images/loss.png)<br>
 
 #### Contour(left) and Gradient Descent(right).<br>
-![3](https://github.com/bheemnitd/SINGLE-FEATURE-LINEAR-REGRESSION-FROM-SCRATCH-WITH-NUMPY/blob/master/images/download3.png)
+![3](https://github.com/bheemnitd/Single-Feature-Linear-Regression-From-Scratch/blob/master/images/contour_%26_gradient.png)
