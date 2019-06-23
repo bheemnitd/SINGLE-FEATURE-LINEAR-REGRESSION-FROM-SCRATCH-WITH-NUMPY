@@ -5,7 +5,7 @@
 <p>You would like to use <a href = 'https://github.com/bheemnitd/SINGLE-FEATURE-LINEAR-REGRESSION-FROM-SCRATCH-WITH-NUMPY/blob/master/ex1data1.txt'>this</a> data to help you select which city to expand to next.The file <a href = 'https://github.com/bheemnitd/Single-Feature-Linear-Regression-From-Scratch/blob/master/ex1data1.txt'>ex1data1.txt</a> contains the dataset for our linear regression problem. The first column is the population of a city and the second column is the profit of a food truck in that city.There are 97 sample are available to train the model. A negative value for profit indicates a
 loss.</p>
 
-<p>Here we used 97 training example to train the model, and used Batch Gradient Descent as Otimizer over 5000 iteration to get optimized theta(paramer/weight).</p>
+<p>Here we used 97 training example to train the model, and used Stochastic Gradient Descent as Otimizer over 5000 iteration to get optimized theta(paramer/weight).</p>
 
 ## Dataset
 Here some sample of training dataset.
