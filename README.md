@@ -20,7 +20,6 @@ Here some sample of training dataset.
 
 ## Setup
 <p> Install these libraries to run the code.</p>
-<li> numpy</li>
 <li> matplotlib</li>
 
 #### Linear Regression.<br>
