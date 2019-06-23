@@ -19,7 +19,7 @@ Here some sample of training dataset.
 </table><br>
 
 ## Setup
-<p> Install these libraries to run the code.</p>
+<p> Important Libraries.</p>
 <li> matplotlib</li>
 
 #### Linear Regression.<br>
