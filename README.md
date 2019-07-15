@@ -7,7 +7,7 @@ loss.</p>
 
 <p>Here we used 97 training example to train the model, and used Stochastic Gradient Descent optimizer over 70000000 iteration and learning rate 0.000001 to get optimized theta(paramer/weight).</p>
 
-<p align = 'justify'><b>Stochastic gradient descent</b> (often shortened to SGD), also known as incremental gradient descent, is an iterative method for optimizing a differentiable objective function, a stochastic approximation of gradient descent optimization. In SGD we update the parameters at every point where as in Batch Gradient Descent we update the parameters in batch means after adding the loss at all point's.</p>
+<p align = 'justify'><b>Stochastic gradient descent</b> (often shortened to SGD), also known as incremental gradient descent, is an iterative method for optimizing a differentiable objective function, a stochastic approximation of gradient descent optimization. In SGD we update the parameters at every point where as in Batch Gradient Descent we update the parameters in batch.</p>
 
 ## Dataset
 Here some sample of training dataset.
